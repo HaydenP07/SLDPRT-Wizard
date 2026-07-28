@@ -1,6 +1,6 @@
 # SLDPRT Wizard
 
-![SLDPRT Wizard Logo](Images\wizardHat.png)
+![SLDPRT Wizard Logo](Images/wizardHat.png)
 
 ## Overview
 
