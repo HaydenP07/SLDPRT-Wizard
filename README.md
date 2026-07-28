@@ -1,6 +1,10 @@
 # SLDPRT Wizard
 
-![SLDPRT Wizard Logo](Images/wizardHat.png)
+<p align="center">
+  <img src="Images/wizardHat.png" width="150">
+</p>
+
+<h1 align="center">SLDPRT Wizard</h1>
 
 ## Overview
 
